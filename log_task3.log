@@ -1,0 +1,15 @@
+Date and time of the function call: 2023-12-09 19:07:50.333129
+Function name: flat_generator
+Arguments: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Return value: <generator object flat_generator at 0x000001A343891D90>
+
+Date and time of the function call: 2023-12-09 19:07:50.333129
+Function name: flat_generator
+Arguments: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Return value: <generator object flat_generator at 0x000001A343891D90>
+
+Date and time of the function call: 2023-12-09 19:07:50.333129
+Function name: flat_generator
+Arguments: (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Return value: <generator object flat_generator at 0x000001A343891D90>
+

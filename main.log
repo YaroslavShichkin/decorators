@@ -1,0 +1,25 @@
+Date and time of the function call: 2023-12-09 19:07:40.033580
+Function name: hello_world
+Arguments: ((), {})
+Return value: Hello World
+
+Date and time of the function call: 2023-12-09 19:07:40.033580
+Function name: summator
+Arguments: ((2, 2), {})
+Return value: 4
+
+Date and time of the function call: 2023-12-09 19:07:40.033580
+Function name: div
+Arguments: ((6, 2), {})
+Return value: 3.0
+
+Date and time of the function call: 2023-12-09 19:07:40.033580
+Function name: summator
+Arguments: ((4.3,), {'b': 2.2})
+Return value: 6.5
+
+Date and time of the function call: 2023-12-09 19:07:40.033580
+Function name: summator
+Arguments: ((), {'a': 0, 'b': 0})
+Return value: 0
+
